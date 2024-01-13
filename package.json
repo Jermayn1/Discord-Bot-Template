@@ -1,0 +1,14 @@
+{
+  "name": "husky-bot",
+  "version": "1.0.0",
+  "description": "A Discord Bot to manage the offical Husky Resort Discord Server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "glob": "^10.3.10",
+    "mongoose": "^8.0.3"
+  }
+}
