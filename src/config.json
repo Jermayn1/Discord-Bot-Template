@@ -1,0 +1,9 @@
+{
+    "token": "Discord Bot Token",
+    "databaseURL": "MongDB URL",
+    "developer": ["DeineDiscordId", "WeitereDiscordIds"],
+    "color": {
+        "normal": "#4467C4",
+        "error": "#ff5353"
+    }
+}
